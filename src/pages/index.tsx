@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-const bla = 'let'
+const bla = 'var'
 
 export default function Home() {
   return (
