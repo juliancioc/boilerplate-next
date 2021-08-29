@@ -1,7 +1,3 @@
-import Head from 'next/head'
-
-const blaa = 'var'
-
 export default function Home() {
   return (
     <div>
