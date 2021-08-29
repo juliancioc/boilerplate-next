@@ -6,7 +6,7 @@
     "dev": "PORT=3001 next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint --max-warnings=0",
+    "lint": "eslint src --max-warnings=0",
     "prepare": "husky install"
   },
   "lint-staged": {
