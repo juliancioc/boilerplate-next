@@ -10,7 +10,7 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "*.tsx": "eslint --cache --fix"
+    "src/**/*": "eslint --cache --fix"
   },
   "dependencies": {
     "next": "11.1.0",
