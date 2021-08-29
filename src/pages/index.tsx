@@ -1,5 +1,7 @@
 import Head from 'next/head'
 
+const bla = 'let'
+
 export default function Home() {
   return (
     <div>
